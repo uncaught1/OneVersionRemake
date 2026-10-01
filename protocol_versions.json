@@ -1,6 +1,16 @@
 {
-  "file_version": 3,
+  "file_version": 4,
   "protocols": [
+    {
+      "protocol": 777,
+      "name": "26.3",
+      "major": "26.3.x"
+    },
+    {
+      "protocol": 776,
+      "name": "26.2",
+      "major": "26.2.x"
+    },
     {
       "protocol": 775,
       "name": "26.1.2",
